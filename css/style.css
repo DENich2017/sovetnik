@@ -46,7 +46,7 @@ padding: 0px;
 accordion-html5{clear: both; margin-top: 20px;}
 summary::-webkit-details-marker{display:none;}
 summary::marker{display:none;}
-summary{list-style:none}
+summary{list-style:none;}
 
 
 
